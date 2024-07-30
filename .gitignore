@@ -1,4 +1,5 @@
 test_data/
 train_data/
+aws_keys.txt
 #__pycache__/
 #pruebas.py
